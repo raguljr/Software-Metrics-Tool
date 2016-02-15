@@ -1,6 +1,6 @@
 from Tkinter import *
 import tkFileDialog
-import frr
+import logic
 root=Tk()
 e=StringVar();
 tx=StringVar();
